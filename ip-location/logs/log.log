@@ -1,0 +1,125 @@
+2021/03/24-16:19 [main] INFO  com.dreamland.iplocation.IpLocationApplicationTests- Starting IpLocationApplicationTests using Java 1.8.0_231 on DESKTOP-EVN343J with PID 8468 (started by java in D:\GitHub\ip-location)
+2021/03/24-16:19 [main] INFO  com.dreamland.iplocation.IpLocationApplicationTests- No active profile set, falling back to default profiles: default
+2021/03/24-16:19 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate- Multiple Spring Data modules found, entering strict repository configuration mode!
+2021/03/24-16:19 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate- Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2021/03/24-16:19 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate- Finished Spring Data repository scanning in 4 ms. Found 0 Redis repository interfaces.
+2021/03/24-16:19 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor- Initializing ExecutorService 'applicationTaskExecutor'
+2021/03/24-16:19 [main] INFO  com.dreamland.iplocation.IpLocationApplicationTests- Started IpLocationApplicationTests in 2.311 seconds (JVM running for 3.273)
+2021/03/24-16:19 [SpringContextShutdownHook] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor- Shutting down ExecutorService 'applicationTaskExecutor'
+2021/03/24-16:19 [main] INFO  com.dreamland.iplocation.IpLocationApplication- Starting IpLocationApplication using Java 1.8.0_231 on DESKTOP-EVN343J with PID 7844 (D:\GitHub\ip-location\target\classes started by java in D:\GitHub\ip-location)
+2021/03/24-16:19 [main] INFO  com.dreamland.iplocation.IpLocationApplication- No active profile set, falling back to default profiles: default
+2021/03/24-16:19 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate- Multiple Spring Data modules found, entering strict repository configuration mode!
+2021/03/24-16:19 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate- Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2021/03/24-16:19 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate- Finished Spring Data repository scanning in 4 ms. Found 0 Redis repository interfaces.
+2021/03/24-16:19 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer- Tomcat initialized with port(s): 9911 (http)
+2021/03/24-16:19 [main] INFO  org.apache.catalina.core.StandardService- Starting service [Tomcat]
+2021/03/24-16:19 [main] INFO  org.apache.catalina.core.StandardEngine- Starting Servlet engine: [Apache Tomcat/9.0.43]
+2021/03/24-16:19 [main] INFO  org.apache.catalina.core.AprLifecycleListener- An older version [1.2.14] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.23]
+2021/03/24-16:19 [main] INFO  org.apache.catalina.core.AprLifecycleListener- Loaded Apache Tomcat Native library [1.2.14] using APR version [1.6.2].
+2021/03/24-16:19 [main] INFO  org.apache.catalina.core.AprLifecycleListener- APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2021/03/24-16:19 [main] INFO  org.apache.catalina.core.AprLifecycleListener- APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2021/03/24-16:19 [main] INFO  org.apache.catalina.core.AprLifecycleListener- OpenSSL successfully initialized [OpenSSL 1.0.2l  25 May 2017]
+2021/03/24-16:19 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]- Initializing Spring embedded WebApplicationContext
+2021/03/24-16:19 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext- Root WebApplicationContext: initialization completed in 1834 ms
+2021/03/24-16:19 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor- Initializing ExecutorService 'applicationTaskExecutor'
+2021/03/24-16:19 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer- Tomcat started on port(s): 9911 (http) with context path ''
+2021/03/24-16:19 [main] INFO  com.dreamland.iplocation.IpLocationApplication- Started IpLocationApplication in 2.762 seconds (JVM running for 4.28)
+2021/03/24-16:20 [http-nio-9911-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]- Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021/03/24-16:20 [http-nio-9911-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet- Initializing Servlet 'dispatcherServlet'
+2021/03/24-16:20 [http-nio-9911-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet- Completed initialization in 0 ms
+2021/03/24-16:21 [main] INFO  com.dreamland.iplocation.IpLocationApplicationTests- Starting IpLocationApplicationTests using Java 1.8.0_231 on DESKTOP-EVN343J with PID 21440 (started by java in D:\GitHub\ip-location)
+2021/03/24-16:21 [main] INFO  com.dreamland.iplocation.IpLocationApplicationTests- No active profile set, falling back to default profiles: default
+2021/03/24-16:21 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate- Multiple Spring Data modules found, entering strict repository configuration mode!
+2021/03/24-16:21 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate- Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2021/03/24-16:21 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate- Finished Spring Data repository scanning in 4 ms. Found 0 Redis repository interfaces.
+2021/03/24-16:21 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor- Initializing ExecutorService 'applicationTaskExecutor'
+2021/03/24-16:21 [main] INFO  com.dreamland.iplocation.IpLocationApplicationTests- Started IpLocationApplicationTests in 1.943 seconds (JVM running for 2.691)
+2021/03/24-16:21 [SpringContextShutdownHook] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor- Shutting down ExecutorService 'applicationTaskExecutor'
+2021/03/24-16:21 [main] INFO  com.dreamland.iplocation.IpLocationApplication- Starting IpLocationApplication using Java 1.8.0_231 on DESKTOP-EVN343J with PID 19536 (D:\GitHub\ip-location\target\classes started by java in D:\GitHub\ip-location)
+2021/03/24-16:21 [main] INFO  com.dreamland.iplocation.IpLocationApplication- No active profile set, falling back to default profiles: default
+2021/03/24-16:21 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate- Multiple Spring Data modules found, entering strict repository configuration mode!
+2021/03/24-16:21 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate- Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2021/03/24-16:21 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate- Finished Spring Data repository scanning in 4 ms. Found 0 Redis repository interfaces.
+2021/03/24-16:21 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer- Tomcat initialized with port(s): 9911 (http)
+2021/03/24-16:21 [main] INFO  org.apache.catalina.core.StandardService- Starting service [Tomcat]
+2021/03/24-16:21 [main] INFO  org.apache.catalina.core.StandardEngine- Starting Servlet engine: [Apache Tomcat/9.0.43]
+2021/03/24-16:21 [main] INFO  org.apache.catalina.core.AprLifecycleListener- An older version [1.2.14] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.23]
+2021/03/24-16:21 [main] INFO  org.apache.catalina.core.AprLifecycleListener- Loaded Apache Tomcat Native library [1.2.14] using APR version [1.6.2].
+2021/03/24-16:21 [main] INFO  org.apache.catalina.core.AprLifecycleListener- APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2021/03/24-16:21 [main] INFO  org.apache.catalina.core.AprLifecycleListener- APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2021/03/24-16:21 [main] INFO  org.apache.catalina.core.AprLifecycleListener- OpenSSL successfully initialized [OpenSSL 1.0.2l  25 May 2017]
+2021/03/24-16:21 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]- Initializing Spring embedded WebApplicationContext
+2021/03/24-16:21 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext- Root WebApplicationContext: initialization completed in 1869 ms
+2021/03/24-16:21 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor- Initializing ExecutorService 'applicationTaskExecutor'
+2021/03/24-16:21 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer- Tomcat started on port(s): 9911 (http) with context path ''
+2021/03/24-16:21 [main] INFO  com.dreamland.iplocation.IpLocationApplication- Started IpLocationApplication in 2.867 seconds (JVM running for 3.748)
+2021/03/24-16:22 [http-nio-9911-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]- Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021/03/24-16:22 [http-nio-9911-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet- Initializing Servlet 'dispatcherServlet'
+2021/03/24-16:22 [http-nio-9911-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet- Completed initialization in 1 ms
+2021/03/24-16:23 [http-nio-9911-exec-1] INFO  com.dreamland.iplocation.util.IpUtils- ip2region.db的目录：/D:/GitHub/ip-location/target/classes/ip2region/ip2region.db
+2021/03/24-16:24 [http-nio-9911-exec-5] INFO  com.dreamland.iplocation.util.IpUtils- ip2region.db的目录：/D:/GitHub/ip-location/target/classes/ip2region/ip2region.db
+2021/03/24-16:32 [main] INFO  com.dreamland.iplocation.IpLocationApplicationTests- Starting IpLocationApplicationTests using Java 1.8.0_231 on DESKTOP-EVN343J with PID 264 (started by java in D:\GitHub\ip-location)
+2021/03/24-16:32 [main] INFO  com.dreamland.iplocation.IpLocationApplicationTests- No active profile set, falling back to default profiles: default
+2021/03/24-16:32 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate- Multiple Spring Data modules found, entering strict repository configuration mode!
+2021/03/24-16:32 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate- Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2021/03/24-16:32 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate- Finished Spring Data repository scanning in 5 ms. Found 0 Redis repository interfaces.
+2021/03/24-16:32 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor- Initializing ExecutorService 'applicationTaskExecutor'
+2021/03/24-16:32 [main] INFO  com.dreamland.iplocation.IpLocationApplicationTests- Started IpLocationApplicationTests in 2.212 seconds (JVM running for 3.058)
+2021/03/24-16:32 [SpringContextShutdownHook] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor- Shutting down ExecutorService 'applicationTaskExecutor'
+2021/03/24-16:35 [main] INFO  com.dreamland.iplocation.IpLocationApplicationTests- Starting IpLocationApplicationTests using Java 1.8.0_231 on DESKTOP-EVN343J with PID 7144 (started by java in D:\GitHub\ip-location)
+2021/03/24-16:35 [main] INFO  com.dreamland.iplocation.IpLocationApplicationTests- No active profile set, falling back to default profiles: default
+2021/03/24-16:35 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate- Multiple Spring Data modules found, entering strict repository configuration mode!
+2021/03/24-16:35 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate- Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2021/03/24-16:35 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate- Finished Spring Data repository scanning in 10 ms. Found 0 Redis repository interfaces.
+2021/03/24-16:35 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor- Initializing ExecutorService 'applicationTaskExecutor'
+2021/03/24-16:35 [main] INFO  com.dreamland.iplocation.IpLocationApplicationTests- Started IpLocationApplicationTests in 2.26 seconds (JVM running for 3.13)
+2021/03/24-16:35 [SpringContextShutdownHook] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor- Shutting down ExecutorService 'applicationTaskExecutor'
+2021/03/24-16:39 [main] INFO  com.dreamland.iplocation.IpLocationApplicationTests- Starting IpLocationApplicationTests using Java 1.8.0_231 on DESKTOP-EVN343J with PID 8216 (started by java in D:\GitHub\ip-location)
+2021/03/24-16:39 [main] INFO  com.dreamland.iplocation.IpLocationApplicationTests- No active profile set, falling back to default profiles: default
+2021/03/24-16:39 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate- Multiple Spring Data modules found, entering strict repository configuration mode!
+2021/03/24-16:39 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate- Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2021/03/24-16:39 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate- Finished Spring Data repository scanning in 6 ms. Found 0 Redis repository interfaces.
+2021/03/24-16:39 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor- Initializing ExecutorService 'applicationTaskExecutor'
+2021/03/24-16:39 [main] INFO  com.dreamland.iplocation.IpLocationApplicationTests- Started IpLocationApplicationTests in 2.08 seconds (JVM running for 2.845)
+2021/03/24-16:39 [SpringContextShutdownHook] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor- Shutting down ExecutorService 'applicationTaskExecutor'
+2021/03/24-16:48 [main] INFO  com.dreamland.iplocation.IpLocationApplicationTests- Starting IpLocationApplicationTests using Java 1.8.0_231 on DESKTOP-EVN343J with PID 19600 (started by java in D:\GitHub\ip-location)
+2021/03/24-16:48 [main] INFO  com.dreamland.iplocation.IpLocationApplicationTests- No active profile set, falling back to default profiles: default
+2021/03/24-16:48 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate- Multiple Spring Data modules found, entering strict repository configuration mode!
+2021/03/24-16:48 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate- Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2021/03/24-16:48 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate- Finished Spring Data repository scanning in 6 ms. Found 0 Redis repository interfaces.
+2021/03/24-16:48 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor- Initializing ExecutorService 'applicationTaskExecutor'
+2021/03/24-16:48 [main] INFO  com.dreamland.iplocation.IpLocationApplicationTests- Started IpLocationApplicationTests in 2.296 seconds (JVM running for 3.104)
+2021/03/24-16:48 [SpringContextShutdownHook] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor- Shutting down ExecutorService 'applicationTaskExecutor'
+2021/03/24-16:49 [main] INFO  com.dreamland.iplocation.IpLocationApplication- Starting IpLocationApplication using Java 1.8.0_231 on DESKTOP-EVN343J with PID 15520 (D:\GitHub\ip-location\target\classes started by java in D:\GitHub\ip-location)
+2021/03/24-16:49 [main] INFO  com.dreamland.iplocation.IpLocationApplication- No active profile set, falling back to default profiles: default
+2021/03/24-16:49 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate- Multiple Spring Data modules found, entering strict repository configuration mode!
+2021/03/24-16:49 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate- Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2021/03/24-16:49 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate- Finished Spring Data repository scanning in 4 ms. Found 0 Redis repository interfaces.
+2021/03/24-16:49 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer- Tomcat initialized with port(s): 9911 (http)
+2021/03/24-16:49 [main] INFO  org.apache.catalina.core.StandardService- Starting service [Tomcat]
+2021/03/24-16:49 [main] INFO  org.apache.catalina.core.StandardEngine- Starting Servlet engine: [Apache Tomcat/9.0.43]
+2021/03/24-16:49 [main] INFO  org.apache.catalina.core.AprLifecycleListener- An older version [1.2.14] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.23]
+2021/03/24-16:49 [main] INFO  org.apache.catalina.core.AprLifecycleListener- Loaded Apache Tomcat Native library [1.2.14] using APR version [1.6.2].
+2021/03/24-16:49 [main] INFO  org.apache.catalina.core.AprLifecycleListener- APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2021/03/24-16:49 [main] INFO  org.apache.catalina.core.AprLifecycleListener- APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2021/03/24-16:49 [main] INFO  org.apache.catalina.core.AprLifecycleListener- OpenSSL successfully initialized [OpenSSL 1.0.2l  25 May 2017]
+2021/03/24-16:49 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]- Initializing Spring embedded WebApplicationContext
+2021/03/24-16:49 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext- Root WebApplicationContext: initialization completed in 1966 ms
+2021/03/24-16:49 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor- Initializing ExecutorService 'applicationTaskExecutor'
+2021/03/24-16:49 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer- Tomcat started on port(s): 9911 (http) with context path ''
+2021/03/24-16:49 [main] INFO  com.dreamland.iplocation.IpLocationApplication- Started IpLocationApplication in 3.016 seconds (JVM running for 4.023)
+2021/03/24-16:50 [http-nio-9911-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]- Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021/03/24-16:50 [http-nio-9911-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet- Initializing Servlet 'dispatcherServlet'
+2021/03/24-16:50 [http-nio-9911-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet- Completed initialization in 1 ms
+2021/03/24-16:50 [http-nio-9911-exec-1] INFO  com.dreamland.iplocation.util.IpUtil- 临时ip2region.db的目录：C:\Users\dream\AppData\Local\Temp\ip2region.db
+2021/03/24-16:51 [http-nio-9911-exec-1] ERROR com.dreamland.iplocation.controller.IpAddressAction- 查询IP地址出错：null
+2021/03/24-16:51 [http-nio-9911-exec-4] INFO  com.dreamland.iplocation.util.IpUtil- 临时ip2region.db的目录：C:\Users\dream\AppData\Local\Temp\ip2region.db
+2021/03/24-16:52 [http-nio-9911-exec-4] ERROR com.dreamland.iplocation.controller.IpAddressAction- 查询IP地址出错：null
+2021/03/24-17:00 [main] INFO  com.dreamland.iplocation.IpLocationApplicationTests- Starting IpLocationApplicationTests using Java 1.8.0_231 on DESKTOP-EVN343J with PID 20568 (started by java in D:\GitHub\ip-location)
+2021/03/24-17:00 [main] INFO  com.dreamland.iplocation.IpLocationApplicationTests- No active profile set, falling back to default profiles: default
+2021/03/24-17:00 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate- Multiple Spring Data modules found, entering strict repository configuration mode!
+2021/03/24-17:00 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate- Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2021/03/24-17:00 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate- Finished Spring Data repository scanning in 6 ms. Found 0 Redis repository interfaces.
+2021/03/24-17:00 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor- Initializing ExecutorService 'applicationTaskExecutor'
+2021/03/24-17:00 [main] INFO  com.dreamland.iplocation.IpLocationApplicationTests- Started IpLocationApplicationTests in 2.149 seconds (JVM running for 2.956)
+2021/03/24-17:00 [SpringContextShutdownHook] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor- Shutting down ExecutorService 'applicationTaskExecutor'

@@ -1,0 +1,10 @@
+server:
+  port: 9911
+
+logging:
+  file:
+    name: logs/log.log
+  level:
+    root: info
+  pattern:
+    file: '%d{yyyy/MM/dd-HH:mm} [%thread] %-5level %logger- %msg%n'
